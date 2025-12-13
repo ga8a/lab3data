@@ -1,0 +1,4 @@
+TITLE|SCOREBOARD
+Team A;Team B;2;1
+Team C;Team D;0;0
+Team E;Team F;3;2
