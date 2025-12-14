@@ -1,13 +1,12 @@
 {
   "title": "SCOREBOARD",
   "scores": [
-    { "home": "Gabija", "away": "Team B", "score_home": 2, "score_away": 1 },
+    { "home": "Team A", "away": "Team B", "score_home": 2, "score_away": 1 },
     { "home": "Team C", "away": "Team D", "score_home": 0, "score_away": 0 },
     { "home": "Team E", "away": "Team F", "score_home": 3, "score_away": 2 },
     { "home": "Team G", "away": "Team H", "score_home": 3, "score_away": 2 },
     { "home": "Team I", "away": "Team J", "score_home": 3, "score_away": 2 },
     { "home": "Team K", "away": "Team L", "score_home": 3, "score_away": 2 },
-    { "home": "Team M", "away": "Team N", "score_home": 3, "score_away": 2 },
-    { "home": "Team O", "away": "Team P", "score_home": 3, "score_away": 2 }
+    { "home": "Team M", "away": "Team N", "score_home": 3, "score_away": 2 }
   ]
 }
